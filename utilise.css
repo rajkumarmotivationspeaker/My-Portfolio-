@@ -1,0 +1,102 @@
+.layout {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.flex-flow {
+    flex-flow: wrap;
+}
+
+.justify-space {
+    justify-content: space-around;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    /* to conver upper case*/
+}
+
+.margin-top10 {
+    margin-top: 10px;
+}
+
+.margin-top20 {
+    margin-top: 20px;
+}
+
+.margin-top30 {
+    margin-top: 30px;
+}
+
+.margin-top40 {
+    margin-top: 40px;
+}
+
+.margin-top50 {
+    margin-top: 50px;
+}
+
+.margin-top60 {
+    margin-top: 60px;
+}
+
+.margin-top80 {
+    margin-top: 80px;
+}
+
+.margin-left40{
+ margin-left: 40px;
+}
+
+.flex3 {
+    flex: 3;
+}
+
+.flex2 {
+    float: 2;
+}
+
+.align-item {
+    align-items: center;
+}
+
+.font-family {
+    font-family: sans-serif;
+
+}
+
+.gap10 {
+    gap: 10px;
+}
+
+.gap20 {
+    gap: 20px;
+}
+
+.gap90 {
+    gap: 90px;
+}
+
+.h2-color {
+    color: chartreuse;
+}
